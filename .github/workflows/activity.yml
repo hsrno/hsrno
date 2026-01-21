@@ -1,0 +1,15 @@
+name: Update README with recent activity
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # update tiap jam
+  workflow_dispatch:       # bisa dijalankan manual dari tab Actions
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: JamesIves/github-activity-readme@v0.3.0
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
