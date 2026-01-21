@@ -1,6 +1,5 @@
 # Helloo, I'm Rino 👋 
-🔭 Currently learning to become a Full-Stack Developer & Cybersecurity professional
-🌱 Exploring backend concepts, debugging, Git, Docker, and secure system practices
+🔭 Currently learning to become a Full-Stack Developer & Cybersecurity professiona                 🌱 Exploring backend concepts, debugging, Git, Docker, and secure system practices
 🎯 Goal: To grow into one of the best fullstack developers and cybersecurity experts in the world 🌍
 
 ## 📊 Recent Activity
