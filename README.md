@@ -5,6 +5,7 @@
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/hsrno/tpq-akhlaqul-qurro/pull/1) in [hsrno/tpq-akhlaqul-qurro](https://github.com/hsrno/tpq-akhlaqul-qurro)
 <!--END_SECTION:activity-->
 
 ## 🚀 Projects
