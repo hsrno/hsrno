@@ -3,6 +3,7 @@
 🎯 Goal: To grow into one of the best fullstack developers and cybersecurity experts in the world 🌍
 
 ## 📊 Recent Activity
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
